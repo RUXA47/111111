@@ -1,0 +1,6 @@
+const names = ['Anton', 'Zevs', 'Toma', 'Vovan', 'Natasha', 'Dodon']
+
+for (let i = 0; i < names.length; i += 1) {
+  display.log(names[i])
+}
+       
